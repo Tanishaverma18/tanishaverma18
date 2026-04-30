@@ -1,13 +1,22 @@
 # Hi 👋, I'm Tanisha Verma
 
-- 📫 How to reach me **tanishaverma081@gmail.com**
+<section class="about-section">
+  
+<ul>
+  <li>🤖 Develop intelligent AI-powered applications that solve real-world challenges</li>
+  <li>💻 Build responsive, scalable, and modern full-stack web projects</li>
+  <li>⚡ Explore automation, smart systems, and emerging technologies</li>
+  <li>🌱 Continuously learning, innovating, and creating impactful digital solutions</li>
+  <li>🎯 Passionate about turning ideas into real-world tech products</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
+- 📫 How to reach me: <b>tanishaverma081@gmail.com</b>
 <p align="left">
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tanisha-verma-181105t/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanisha-verma-181105t/" height="30" width="40" /></a>
 </p>
-
+<br>
 
 ![](https://streak-stats.demolab.com/?user=Tanishaverma18&theme=dark&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tanishaverma18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
