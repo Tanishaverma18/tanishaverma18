@@ -8,8 +8,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tanisha-verma-181105t/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanisha-verma-181105t/" height="30" width="40" /></a>
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Tanishaverma18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ![](https://streak-stats.demolab.com/?user=Tanishaverma18&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tanishaverma18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
