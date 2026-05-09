@@ -7,7 +7,7 @@
   <li>💻 Build responsive, scalable, and modern full-stack web projects</li>
   <li>⚡ Explore automation, smart systems, and emerging technologies</li>
   <li>🌱 Continuously learning, innovating, and creating impactful digital solutions</li>
-  <li>🎯 Passionate about turning ideas into real-world tech products</li>
+  
 </ul>
 
 <h3 align="left">Connect with me:</h3>
